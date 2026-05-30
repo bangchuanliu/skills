@@ -1,0 +1,8 @@
+# macOS junk
+.DS_Store
+
+# Machine-local agent config (per-machine permissions, logs)
+.claude/settings.local.json
+.claude/logs/
+**/.claude/settings.local.json
+**/.claude/logs/
