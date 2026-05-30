@@ -1,7 +1,7 @@
 ---
 name: sysdesign-drill
 kind: leaf
-description: Use when practicing system design interviews under interview-like conditions — timed Socratic drill, not a study session. Trigger phrases: "practice system design", "drill X design question", "interview practice", "design X system", "system design session", "sysdesign interview prep", "capacity estimation drill", "BOTE math drill", "component deep dive drill".
+description: "Use when practicing system design interviews under interview-like conditions — timed Socratic drill, not a study session. Trigger phrases: \"practice system design\", \"drill X design question\", \"interview practice\", \"design X system\", \"system design session\", \"sysdesign interview prep\", \"capacity estimation drill\", \"BOTE math drill\", \"component deep dive drill\"."
 ---
 
 # System Design Interview Drill

@@ -1,6 +1,6 @@
 ---
 name: local-server
-description: Start, stop, or check a tiny local HTTP server that serves personal HTML data files at http://localhost:<port>/ and accepts whole-file overwrite saves. Schema-agnostic — the server has no domain knowledge of progress dots, rows, or any specific HTML format. All editing logic lives in the JS embedded in each HTML file (for in-browser interactions) and in the consuming skill's prompt (for batch mutations like sweep/graduate). Trigger phrases: "preview", "open in browser", "browse my files", "start local server", "stop local server", "kill local server", "local server status".
+description: "Start, stop, or check a tiny local HTTP server that serves personal HTML data files at http://localhost:<port>/ and accepts whole-file overwrite saves. Schema-agnostic — the server has no domain knowledge of progress dots, rows, or any specific HTML format. All editing logic lives in the JS embedded in each HTML file (for in-browser interactions) and in the consuming skill's prompt (for batch mutations like sweep/graduate). Trigger phrases: \"preview\", \"open in browser\", \"browse my files\", \"start local server\", \"stop local server\", \"kill local server\", \"local server status\"."
 ---
 
 # Local HTTP Server for Personal Data Files

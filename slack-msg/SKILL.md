@@ -1,7 +1,7 @@
 ---
 name: slack-msg
 kind: leaf
-description: Rewrite or draft concise, polite Slack messages. Use when: slack message, rewrite message, write message, draft message.
+description: "Rewrite or draft concise, polite Slack messages. Use when: slack message, rewrite message, write message, draft message."
 ---
 
 # Slack Message Writer

@@ -1,7 +1,7 @@
 ---
 name: domain-drill
 kind: leaf
-description: Three modes for learning any technical domain at staff/principal depth. (1) learn — Socratic L1→L6 session with persistent index. Use when: "I want to learn X", "explore X", "map out X", "resume learning X". (2) teach-back — user explains a concept, graded against L1–L6. Use when: "let me explain X", "teach-back on X", "grade my understanding". (3) quick-frame — 5-question problem framing in 2–3 min. Use when: "frame this", "quick frame", "think through X".
+description: "Three modes for learning any technical domain at staff/principal depth. (1) learn — Socratic L1→L6 session with persistent index. Use when: \"I want to learn X\", \"explore X\", \"map out X\", \"resume learning X\". (2) teach-back — user explains a concept, graded against L1–L6. Use when: \"let me explain X\", \"teach-back on X\", \"grade my understanding\". (3) quick-frame — 5-question problem framing in 2–3 min. Use when: \"frame this\", \"quick frame\", \"think through X\"."
 ---
 
 # Domain Drill — Staff/Principal Learning
